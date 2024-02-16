@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "587251238618",
+    "project_id": "flutter-crashlytics-6797f",
+    "storage_bucket": "flutter-crashlytics-6797f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587251238618:android:6d63a5ffbd7802618a87e3",
+        "android_client_info": {
+          "package_name": "com.example.crash_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk3EzQh31kJQImtUrJ6pPN3GZlQM-w-Mg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587251238618:android:1172d3356ad307548a87e3",
+        "android_client_info": {
+          "package_name": "com.example.flutter_crashlytics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk3EzQh31kJQImtUrJ6pPN3GZlQM-w-Mg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
