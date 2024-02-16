@@ -1,0 +1,1 @@
+ /Users/riobizsols/Desktop/Firebase\ Crashlytics/Crashlytics/.dart_tool/flutter_build/4839fcd22718303f701ff6d061d63c5b/native_assets.yaml: 
